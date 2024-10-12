@@ -75,6 +75,11 @@
 <br/>
 <br/>
 
+### ERD
+![image](https://github.com/user-attachments/assets/1ed348ac-017d-496e-9c92-ae7e4cd69ff0)
+<br/>
+<br/>
+
 ### **Flow Chart**
 
 Flow Chart 이미지

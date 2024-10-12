@@ -19,7 +19,7 @@
 - OAuth2.0을 이용한 소셜 로그인
 - JWT 토큰 기반 사용자 인가
 
-**2️⃣ 모의 투자** 
+**2️⃣ 모의 투자**
 
 - 시장가 매수 및 매도, 지정가 매수 및 매도
 - 미수 거래 기능 (증거금률)
@@ -65,15 +65,17 @@
 ## 📰 **구현 사항**
 
 
-**Architecture**
+### **Architecture**
 ![image](https://github.com/user-attachments/assets/f517e378-bbdb-45e5-a540-8c4aece6b185)
+<br/>
+<br/>
 
-**UX/UI**
-![image](https://github.com/user-attachments/assets/03ceb69f-b932-4516-aafa-3bf26a9cf8c7)
+### **UX/UI**
+![image](https://github.com/user-attachments/assets/c38fd855-5009-4ba6-9b7e-2be75f67bb65)
+<br/>
+<br/>
 
-(수정 중)
-
-**Flow Chart**
+### **Flow Chart**
 
 Flow Chart 이미지
 <br/>

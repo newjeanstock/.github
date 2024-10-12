@@ -65,15 +65,17 @@
 ## 📰 **구현 사항**
 
 
-**Architecture**
+### **Architecture**
 ![image](https://github.com/user-attachments/assets/f517e378-bbdb-45e5-a540-8c4aece6b185)
+<br/>
+<br/>
 
-**UX/UI**
-![image](https://github.com/user-attachments/assets/03ceb69f-b932-4516-aafa-3bf26a9cf8c7)
+### **UX/UI**
+![image](https://github.com/user-attachments/assets/c38fd855-5009-4ba6-9b7e-2be75f67bb65)
+<br/>
+<br/>
 
-(수정 중)
-
-**Flow Chart**
+### **Flow Chart**
 
 Flow Chart 이미지
 <br/>

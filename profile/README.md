@@ -1,5 +1,5 @@
 # 새롭게 나아가는 주식, 뉴진스톡
-![image](https://github.com/user-attachments/assets/e0f798ba-d65e-4960-8aa1-c5c00df3f059)
+![image](https://github.com/user-attachments/assets/766172dd-46ab-444a-942a-4fddd6d95a40)
 <br/>
 <br/>
 
